@@ -13,16 +13,18 @@ If you are interested my currently used personal configuration and setup, you ca
 
 ## The Plan
 
-[ ] lazy.nvim
-[ ] kanagawa.nvim
-[ ] mini.statusline
-[ ] oil.nvim
-[ ] Basic options 
-[ ] vim-sleuth
-[ ] treesitter.nvim
-[ ] fzflua
-[ ] nvim-lspconfig 
-[ ] which-key
-[ ] blink-cmp
-[ ] snacks.indent
-[ ] conform.nvim
+- [ ] lazy.nvim
+- [ ] kanagawa.nvim
+- [ ] mini.statusline
+- [ ] oil.nvim
+- [ ] Basic options 
+- [ ] vim-sleuth
+- [ ] editorconf
+- [ ] treesitter.nvim
+- [ ] fzflua
+- [ ] which-key
+- [ ] nvim-lspconfig 
+- [ ] conform.nvim
+- [ ] blink-cmp
+- [ ] snacks.indent
+
