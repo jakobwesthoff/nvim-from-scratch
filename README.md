@@ -15,10 +15,11 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] oil.nvim
 - [X] Basic options 
 - [X] vim-sleuth
-- [ ] editorconf
+- [X] editorconf
 - [ ] treesitter.nvim
-- [ ] fzflua
+- [ ] treesitter-textobjects
 - [ ] which-key
+- [ ] fzflua
 - [ ] nvim-lspconfig 
 - [ ] conform.nvim
 - [ ] blink-cmp
