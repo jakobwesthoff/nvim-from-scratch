@@ -16,9 +16,10 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] Basic options 
 - [X] vim-sleuth
 - [X] editorconf
-- [ ] treesitter.nvim
-- [ ] treesitter-textobjects
-- [ ] which-key
+- [X] showkeys
+- [X] treesitter.nvim
+- [X] treesitter-textobjects
+- [X] which-key
 - [ ] fzflua
 - [ ] nvim-lspconfig 
 - [ ] conform.nvim
