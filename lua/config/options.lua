@@ -1,3 +1,8 @@
+-- Some keyboard mappings as I don't want to break my fingers, while typing on a "german" keyboard ;)
+vim.opt.langmap = "+]ü["
+-- Plain langmap remapping does not seem to do the trick :(
+vim.keymap.set("n", "ü", "[", { remap = true })
+
 vim.opt.expandtab = true -- Convert tabs to spaces
 vim.opt.shiftwidth = 4 -- Amount to indent with << and >>
 vim.opt.tabstop = 4 -- How many spaces are shown per Tab
