@@ -1,5 +1,5 @@
 return {
-  "ahmedkhalf/project.nvim",
-  main="project_nvim",
-  opts={}
+    "ahmedkhalf/project.nvim",
+    main="project_nvim",
+    opts={}
 }
