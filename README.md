@@ -21,7 +21,7 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] treesitter-textobjects
 - [X] which-key
 - [X] fzflua
-- [X] project.nvim 
+- [X] project.nvim
 - [ ] nvim-lspconfig 
 - [ ] conform.nvim
 - [ ] blink-cmp
