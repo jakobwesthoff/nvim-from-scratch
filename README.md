@@ -20,7 +20,9 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] treesitter.nvim
 - [X] treesitter-textobjects
 - [X] which-key
-- [ ] fzflua
+- [X] render-markdown
+- [X] fzflua
+- [X] projects.nvim
 - [ ] nvim-lspconfig 
 - [ ] conform.nvim
 - [ ] blink-cmp
