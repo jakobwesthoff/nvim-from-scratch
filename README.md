@@ -6,7 +6,6 @@ You may use this configuration as an inspiration to create youre own. Follow the
 
 If you are interested my currently used personal configuration and setup, you can always find my complete shell environment in my [dotfiles](https://github.com/jakobwesthoff/dotfiles) repository on [github](https://github.com/jakobwesthoff).
 
-
 ## The Plan
 
 - [X] lazy.nvim
@@ -22,9 +21,12 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] which-key
 - [X] fzflua
 - [X] project.nvim
-- [ ] nvim-lspconfig 
+- [X] LSP 
+- [X] Mason
+- [X] dressing.nvim
 - [ ] conform.nvim
 - [ ] blink-cmp
 - [ ] snacks.nvim
 - [ ] mini.nvim
-
+- [ ] Remember position
+- [ ] lazydev
