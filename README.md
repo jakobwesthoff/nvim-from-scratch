@@ -30,3 +30,17 @@ If you are interested my currently used personal configuration and setup, you ca
 - [ ] mini.nvim
 - [ ] Remember position
 - [ ] lazydev
+
+## Extras
+
+### Markdown
+
+- [X] markdown-preview
+- [X] live-preview
+- [X] render-markdown
+
+### Unsorted
+
+- [ ] Remember last file position
+- [ ] Developing a Plugin
+- [ ] lazydev
