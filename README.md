@@ -24,9 +24,5 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] LSP 
 - [X] Mason
 - [X] dressing.nvim
-- [ ] conform.nvim
+- [X] conform.nvim
 - [ ] blink-cmp
-- [ ] snacks.nvim
-- [ ] mini.nvim
-- [ ] Remember position
-- [ ] lazydev
