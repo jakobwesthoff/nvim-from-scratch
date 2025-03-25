@@ -6,6 +6,7 @@ You may use this configuration as an inspiration to create youre own. Follow the
 
 If you are interested my currently used personal configuration and setup, you can always find my complete shell environment in my [dotfiles](https://github.com/jakobwesthoff/dotfiles) repository on [github](https://github.com/jakobwesthoff).
 
+
 ## The Plan
 
 - [X] lazy.nvim
@@ -25,4 +26,4 @@ If you are interested my currently used personal configuration and setup, you ca
 - [X] Mason
 - [X] dressing.nvim
 - [X] conform.nvim
-- [ ] blink-cmp
+- [X] blink-cmp
