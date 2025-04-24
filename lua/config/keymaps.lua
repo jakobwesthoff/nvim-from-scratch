@@ -8,3 +8,6 @@ vim.keymap.set("n", "<leader>cf", function()
         lsp_format = "fallback",
     })
 end, { desc = "Format current file" })
+
+-- Map <leader>fp to open projects
+vim.keymap.set("n", "<leader>fp", ":ProjectFzf<CR>", { noremap = true, silent = true })
