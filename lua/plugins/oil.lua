@@ -6,6 +6,9 @@ return {
         view_options = {
             show_hidden = true,
         },
+        float = {
+            border = "single",
+        },
     },
     -- Optional dependencies
     dependencies = { { "echasnovski/mini.icons", opts = {} } },
